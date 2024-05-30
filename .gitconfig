@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = S1mplyD
+	email = 52350906+S1mplyD@users.noreply.github.com
+[core]
+	editor = code --wait
