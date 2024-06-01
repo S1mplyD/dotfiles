@@ -2,7 +2,7 @@ import = [
     "~/.config/alacritty/themes/themes/alabaster_dark.toml" 
 ]
 [window]
-dimensions = { columns = 170, lines = 45 }
+dimensions = { columns = 170, lines = 40 }
 
 [font]
 normal = {family = "Hack Nerd Font", style = "Regular" }
